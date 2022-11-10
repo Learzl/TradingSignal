@@ -1,4 +1,3 @@
 requests
 DiscordWebhook
-threading
 random_user_agent
