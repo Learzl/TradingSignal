@@ -1,0 +1,6 @@
+requests
+json
+DiscordWebhook
+time
+threading
+random_user_agent
